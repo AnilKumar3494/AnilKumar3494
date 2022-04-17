@@ -1,5 +1,5 @@
 - 👋 Hey!!I’m Anil Kumar.
-- I’m currently learning ...Python
+
 - 📫 How to reach me ... karapaanilkumar005@gmail.com
 
 <!---
