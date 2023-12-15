@@ -1,6 +1,5 @@
-- 👋 Hey!!I’m Anil Kumar.
-
-- 📫 How to reach me ... karapaanilkumar005@gmail.com
+- 👋 Coding is Fun
+[https://anilkumar3494.github.io/ak-portfolio/](url)
 
 <!---
 AnilKumar3494/AnilKumar3494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
