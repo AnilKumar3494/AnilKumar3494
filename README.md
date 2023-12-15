@@ -1,5 +1,5 @@
 - 👋 Coding is Fun
-[https://anilkumar3494.github.io/ak-portfolio/](url)
+https://anilkumar3494.github.io/ak-portfolio/
 
 <!---
 AnilKumar3494/AnilKumar3494 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
