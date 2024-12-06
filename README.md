@@ -1,7 +1,6 @@
 # 👋 Welcome to My GitHub
 
-Coding is Fun!  
-Check out my portfolio: [anilkumar3494.github.io](https://anilkumar3494.github.io/ak-portfolio/)
+Coding is Fun! [anilkumar3494.github.io](https://anilkumar3494.github.io/ak-portfolio/)
 
 ## 🚀 Technologies I Use
 
