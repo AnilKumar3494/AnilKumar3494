@@ -2,7 +2,7 @@
 
 Probably Building or Breaking Stuff on the Web - **My Website -> https://anilkumar3494.github.io/ak-portfolio/**
 
-### 🚀 My Tech Stack
+### Tech Stack 🤓
 
 | Category | Technologies |
 | :--- | :--- |
